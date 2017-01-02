@@ -26,7 +26,7 @@
     <input type = "text" id = "message" />
     <input type = "button" id = "demo" value = "Load" />
     <div id  = "Content">
-    
+    Hello
     </div>
     </form>
 </body>
